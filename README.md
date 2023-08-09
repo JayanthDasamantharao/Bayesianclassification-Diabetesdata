@@ -1,0 +1,2 @@
+# Bayesian Classification on Diabetes data
+  This project aims to predict diabetes outcomes using Bayesian logistic regression. By employing PyMC3 in Python, I applied prior distributions, conducted simulations, and estimated beta coefficients for accurate predictions. The study involved experimenting with diverse prior distributions, such as uniform and normal, and comparing results with traditional logistic regression techniques. This work potentially holds significance for precise diabetes outcome prediction in patients.
